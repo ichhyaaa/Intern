@@ -28,8 +28,6 @@
     background-image: url(background.jpg);
     background-size: cover;
     backdrop-filter: blur(5px);
-    
-    
 }
 header{
     font-size: 28px;

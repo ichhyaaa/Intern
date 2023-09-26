@@ -15,7 +15,6 @@
     justify-content: center;
     align-items: center;
     background-color: #fff;
-   
 }
 
 .form{
@@ -27,8 +26,6 @@
     border-radius: 3px; 
     background-image: url(background.jpg);
     background-size: cover;
-    
-
 }
 header{
     font-size: 28px;
